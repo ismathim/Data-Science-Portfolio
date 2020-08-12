@@ -1,6 +1,6 @@
 # Machine Learning Portfolio
 
-Collection of all my Projects and Resources, related to the field of Machine Learning, as I slowly immerse Myself into this exciting field 🤩
+Collection of all my Projects and Resources, related to the field of Machine Learning 😊
 
 | No. |Project Name|
 |---------|------------------|
