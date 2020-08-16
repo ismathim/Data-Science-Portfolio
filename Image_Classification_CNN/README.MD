@@ -1,1 +1,1 @@
-AN IMAGE CLASSIFIER USING CNN
+Image Classification using Convolutional Neural Networks
