@@ -1,4 +1,4 @@
-# Machine Learning Portfolio
+# Machine Learning Projects
 
 Collection of all my Projects and Resources, related to the field of Machine Learning 😊
 
